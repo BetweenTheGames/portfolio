@@ -325,6 +325,12 @@ body.es :lang(en) {
     padding-left: 25%;
 	 background-image: url("../../assets/images/Menus/Portada_movil.png");
   }
+  .containerScore{
+	width: 700px;
+    height: 900px;
+    padding-top: 50%;
+    padding-left: 25%;
+  }
 
   .containerFin {
     background-image: url("../../assets/images/Menus/Puntuacion_movil.png");
@@ -343,7 +349,7 @@ body.es :lang(en) {
   .containerCred{
   	width: 700px;
     height: 900px;
-    padding-top: 50%;
+    padding-top: 00%;
     padding-left: 25%;
   }
 
@@ -463,6 +469,10 @@ body.es :lang(en) {
     padding-left: 18%;
   }
   .containerScore{
+	width: 1000px;
+    height: 750px;
+    padding-top: 20%;
+    padding-left: 18%;
   	background-image: url("../../assets/images/Backgrounds/Score.png");
   }
   .containerFin {
