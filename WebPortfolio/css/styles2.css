@@ -1,0 +1,12 @@
+.btn.btn-success.btn-block {
+    color: #000000;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #a24be9, #ffffff);
+    border-color: #a24be9 #a24be9 #a24be9;
+}
+.btn.btn-success.btn-block:hover {
+    color: #000000;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #7309b9, #ffffff73);
+    border-color: #631497 #631497 #631497;
+}
